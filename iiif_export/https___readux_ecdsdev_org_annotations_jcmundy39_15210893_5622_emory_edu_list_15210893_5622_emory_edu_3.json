@@ -1,0 +1,77 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/15210893.5622.emory.edu/list/15210893.5622.emory.edu$3",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@id": "fddf925c-bbc5-4e33-be07-e90f545eef05",
+            "@type": "oa:Annotation",
+            "resource": {
+                "format": "text/html",
+                "language": "en",
+                "chars": "<p>test</p>",
+                "@type": "dctypes:Text"
+            },
+            "on": {
+                "selector": {
+                    "value": "xywh=178,250,1566,360",
+                    "item": {
+                        "default": {
+                            "value": "xywh=178,250,1566,360",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M328.54375,343.46619l-150.86833,70.61922l6.41993,112.34875l192.59786,57.77936l243.9573,-64.19929l394.82562,22.46975l182.96797,-22.46975l-22.46975,89.879h35.30961l250.37722,-96.29893l263.21708,-16.04982l19.25979,-157.28826l-221.48754,-89.879l-776.81139,86.66904l-147.65836,-19.25979h-173.33808v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_f56d8b8d-97a8-4fe8-afe4-7eb9a26ee902\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$3",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "@type": "oa:SpecificResource"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "motivation": "oa:commenting",
+            "@id": "8e3d8512-3947-4954-b755-3ca9b6a49f05",
+            "@type": "oa:Annotation",
+            "resource": {
+                "format": "text/html",
+                "language": "en",
+                "chars": "<p>test</p>",
+                "@type": "dctypes:Text"
+            },
+            "on": {
+                "selector": {
+                    "value": "xywh=483,639,632,1201",
+                    "item": {
+                        "default": {
+                            "value": "xywh=483,639,632,1201",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1114.98503,1839.30961l-561.74377,-1200.52669l356.30605,552.11388l-426.92527,28.88968z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_d47c28fa-b93f-404a-8529-694b4fe58908\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.25979\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/canvas/15210893.5622.emory.edu$3",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/15210893.5622.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "@type": "oa:SpecificResource"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            }
+        }
+    ],
+    "@type": "sc:AnnotationList"
+}

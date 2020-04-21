@@ -1,0 +1,6 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/15210893.5622.emory.edu/list/15210893.5622.emory.edu$9",
+    "resources": [],
+    "@type": "sc:AnnotationList"
+}
